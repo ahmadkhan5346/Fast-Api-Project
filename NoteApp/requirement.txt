@@ -1,0 +1,4 @@
+pip install fastapi
+pip install jinja2
+Setting in VS code: Type Checking Mode
+run application ==========>   uvicorn main:app --reload
